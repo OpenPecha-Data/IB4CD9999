@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W1CZ1876
   title: ལམ་འབྲས་བླ་མ་ཚད་མའི་རྣམ་ཐར་
   author: ''
-  volumes: {}
+  volumes:
+    e02a86bfb7c3424b8519c9dbe9e3be74:
+      image_group_id: I1CZ1959
+      title: ''
+      volume_number: 1
+      total_pages: 84
